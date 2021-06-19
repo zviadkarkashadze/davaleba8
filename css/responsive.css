@@ -1,5 +1,5 @@
 @media (max-width: 900px) {
-  .left-boxs {
+  .nav-ul {
     flex-direction: column;
     align-items: center;
   }
