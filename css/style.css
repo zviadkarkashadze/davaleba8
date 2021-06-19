@@ -2,7 +2,7 @@
   display: flex;
   position: fixed;
   justify-content:space-between;
-  align-items: baseline;
+  align-items: center;
   top: 0;
   width: 100%;
   background-color: whitesmoke;
@@ -12,7 +12,6 @@
 }
 .nav-ul {
   display: flex;
-  margin-left: 725px;
 }
 .nav-li {
   margin-left: 50px;
@@ -48,7 +47,8 @@
 .firstdiv {
   display: flex;
   justify-content: space-between;
-  width: 1800px;
+  max-width: 1800px;
+  width: 100%;
   margin-top: 390px;
   margin-left: 132px;
 }
